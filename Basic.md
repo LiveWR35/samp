@@ -8,7 +8,7 @@
 #include <streamer>
 #include <fader>
 мурат хуй
-
+сам ты хуй
 //#define DIALOG_REGISTER 1
 //#define DIALOG_LOGIN 2
 //#define DIALOG_SUCCESS_1 3
