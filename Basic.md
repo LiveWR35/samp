@@ -7,7 +7,7 @@
 #include <sscanf2>
 #include <streamer>
 #include <fader>
-мурат хуй
+мурат хуй кек
 сам ты хуй
 //#define DIALOG_REGISTER 1
 //#define DIALOG_LOGIN 2
